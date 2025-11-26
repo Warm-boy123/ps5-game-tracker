@@ -1,0 +1,5 @@
+{
+  "name": "PS5 Game Tracker",
+  "description": "A comprehensive React application to track PS5 game purchases, sales, and financial statistics with AI-powered insights.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PS5 游戏账本",
+  "short_name": "PS5账本",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/PlayStation_logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/PlayStation_logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/PlayStation_logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
