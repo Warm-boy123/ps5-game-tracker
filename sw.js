@@ -1,9 +1,9 @@
 const CACHE_NAME = 'ps5-tracker-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/index.tsx',
-  '/manifest.json'
+  './',
+  './index.html',
+  // '/index.tsx',
+  './manifest.json'
 ];
 
 // Install event
